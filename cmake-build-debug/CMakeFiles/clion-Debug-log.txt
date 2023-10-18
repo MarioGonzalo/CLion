@@ -1,0 +1,8 @@
+"C:\Program Files\JetBrains\CLion 2023.2.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe" -G Ninja -S C:\Users\magol\CLionProjects\untitled -B C:\Users\magol\CLionProjects\untitled\cmake-build-debug
+-- Version: 7.1.3
+-- Build type: Debug
+-- CXX_STANDARD: 17
+-- Required features: cxx_variadic_templates
+-- Configuring done (1.7s)
+-- Generating done (0.0s)
+-- Build files have been written to: C:/Users/magol/CLionProjects/untitled/cmake-build-debug

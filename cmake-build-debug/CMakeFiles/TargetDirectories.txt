@@ -1,0 +1,7 @@
+C:/Users/magol/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir
+C:/Users/magol/CLionProjects/untitled/cmake-build-debug/CMakeFiles/matematicas.dir
+C:/Users/magol/CLionProjects/untitled/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/magol/CLionProjects/untitled/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/magol/CLionProjects/untitled/cmake-build-debug/_deps/fmt-build/CMakeFiles/fmt.dir
+C:/Users/magol/CLionProjects/untitled/cmake-build-debug/_deps/fmt-build/CMakeFiles/edit_cache.dir
+C:/Users/magol/CLionProjects/untitled/cmake-build-debug/_deps/fmt-build/CMakeFiles/rebuild_cache.dir
